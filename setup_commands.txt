@@ -1,0 +1,12 @@
+
+Install anaconda ----> https://www.anaconda.com/download/success
+
+create conda environment ---> conda create -n sagemaker-dev python=3.10 
+
+install required packages ---> pip install boto3 awscli sagemaker 
+
+configure terminal with aws credentials ---> aws configure
+
+install jupyter lab ---> conda install -c conda-forge jupyterlab
+
+Setup jupyter lab kernel ----> python -m ipykernel install --user --name sagemaker-dev
