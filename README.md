@@ -5,6 +5,7 @@ This repo demonstrates how to develop a SageMaker model from your local environm
 [local_dev.ipynb](/local_dev.ipynb) notebook demonstrates how to develop and deploy a model from your local environment. Note that you need to input your own IAM role. The role cannot be automatically generated using: 
 
 from sagemaker import get_execution_role
+
 role = get_execution_role()
 
 The above function only works if you are developing the model using SageMaker Studio or a SageMaker Notebook instance.
