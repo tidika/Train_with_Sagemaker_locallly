@@ -18,5 +18,5 @@ The above function only works if you are developing the model using SageMaker St
 
 
 
-**The youtube video I made about this set up can be found [here](https://studio.youtube.com/channel/UCumsav2Aas2ecjGQrvz8kgA)**
+**The youtube video I made about this set up can be found [here](https://youtu.be/5SGhHXe8GHw)**
 
