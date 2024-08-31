@@ -16,3 +16,5 @@ The above function only works if you are developing the model using SageMaker St
 [data](/data/) data folder contains the Iris dataset used for model training and testing. 
 
 
+You can watch the youtube video about this set up can be found [here](https://studio.youtube.com/channel/UCumsav2Aas2ecjGQrvz8kgA)
+
