@@ -16,6 +16,7 @@ The youtube video I made about this set up can be found **[here](https://youtu.b
 [setup_commands.txt](/setup_commands.txt) lists the steps to follow for setting up your local environment for SageMaker development.
 
 [data](/data/) data folder contains the Iris dataset used for model training and testing. 
+
 [local_training](/local_training.ipynb) notebook demonstrates how to train and deploy sagemaker model on your local machine.  You can watch the video of this demonstration **[here](https://youtu.be/xWet3n9pwT4)** 
 
 
